@@ -1,7 +1,10 @@
 # minigo
 This project teaches you how to build an AlphaGo Zero implementation called Minigo, and run it on the Edge TPU
+
 Get Started
+
 You should have the following software installed 
+
 1.	Python3
 2.	Docker
 3.	Cloud SDK
@@ -21,4 +24,5 @@ sudo apt-get install python3
 Python3 -c ‘import edgetpu; print(“ok”)’
 
 ///This command should print "OK" and not show any error messages if everything worked.
+
 //If not, consult your device setup guide(https://coral.ai/docs/setup).
