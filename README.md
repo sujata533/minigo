@@ -149,6 +149,7 @@ If you're using the Coral Dev Board over MDT/SSH, connect a monitor to the HDMI 
 By default, the game is set up for human vs. human gameplay: Notice at the top-right corner, there are two buttons that both say "Human" (see figure 2). These indicate which player (black and white) is controlled by a human.
 	
 ![image](https://user-images.githubusercontent.com/53611350/140894532-81ae192e-7a3a-4553-8be0-5f96e18708d3.png)
+
 The buttons to assign players and control gameplay
 
 To play against Minigo, click one of the buttons to change the player to "Minigo." Remember that black plays first, so if you want to play first, click the white button to set white as "Minigo."
